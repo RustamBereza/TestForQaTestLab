@@ -1,0 +1,13 @@
+* Opens the browser 
+* Sets the maximum window size
+* Opens the main page
+* Checks that the currency in the kep matches the currencies in the products
+* Clicks on the inscription UAH, then in the drop-down list click to USD
+* In the search enters the word dress and presses the submit button
+* Checks for the presence of the inscription Products: 7. on the earch Results page.
+* Checks currency prices to match the dollar.
+* Clicked on the inscription relevance then in the drop-down list clicked on the 
+inscription on price: from high to low.
+* Checks for the presence of the inscription "Price".
+* Checks for the availability of discount items and prices before and after the discount.
+* Check whether the price before and after the discount, the specified size of the discount.
